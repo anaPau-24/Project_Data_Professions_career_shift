@@ -34,7 +34,7 @@ The steps followed for the exploratory data analysis (EDA) were:
 
 ### Conclusions
 
-- Where the hypotheses true?
+- Were the hypotheses true?
 - What recommendations can be given to the stakeholder?
 - What are the next steps for  refining the Analysis?
 
