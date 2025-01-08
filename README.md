@@ -3,8 +3,22 @@ This repository contains the files used for analysis of the data set "global AI,
 
 The steps followed for the exploratory data analysis (EDA) were:
 
+### Setting the environment and requirements
+- Set the python version locally to 3.11.3
+  ```pyenv local 3.11.3```
+- Creating a virtual environment using the ```venv``` module
+  ```python -m venv .venv```
+- Activate your newly created
+  ```source .venv/bin/activate```
+- Upgrade ```pip```
+  ```pip install --upgrade pip```
+- Installing the required packages contained in "requirements.txt"
+  ```pip install requirements.txt```
+
+
 ### Understanding the Data
 - Load the data file "salaries.csv" into Panda's DataFrame.
+- Share the detailed information of the variable names in the file "variables_information.md".
 - Examine the descriptive statistics of the dataset.
 - Check for missing values. Are they concentrated in some column or in some observations?
 - Check for non null values (NaN)
