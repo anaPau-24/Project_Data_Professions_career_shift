@@ -10,7 +10,7 @@ __pycache__/
 .DS_Store
 
 #data
-data/*.csv
+#data/*.csv
 
 # Distribution / packaging
 .python-version
