@@ -4,3 +4,4 @@ seaborn==0.12.2
 pandas==1.5.0
 numpy==1.26.4
 nbformat
+scikit-learn
