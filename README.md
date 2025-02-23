@@ -1,7 +1,7 @@
 # Project_Data_Professions:career_shift
-This repository contains the files used for analysis of the data set "global AI, ML, Data salaries" downloaded from aijobs.net. The analysed data formed part of the final project form the bootcamp for Data Analyst from GreenBootcamps (Oct 2024-Jan 2025).
+This repository contains the files used for analysis of the data set "global AI, ML, Data salaries" downloaded from [aijobs.net](https://aijobs.net/salaries/download/). The analysed data formed part of the final project from the bootcamp for Data Analyst from GreenBootcamps (Oct 2024-Jan 2025), which was [presented]() to potential employers.
 
-The steps followed for the exploratory data analysis (EDA) were:
+The code used for this project is available in the notebooks with a [Data Analyst perspective](https://github.com/anaPau-24/Project_Data_Professions_career_shift/blob/main/Data_Analyst_perspective.ipynb) and a [Global perspective](). The steps followed for the exploratory data analysis (EDA) are enlisted below:
 
 ### Setting the environment and requirements
 - Set the python version locally to 3.11.3
@@ -25,7 +25,7 @@ The steps followed for the exploratory data analysis (EDA) were:
 - Check which features are continuous or categorical.
 
 ### Hypotheses Generation
-- Some potential hypotheses were determined based on a stakeholder that wants a career change to Data sector (see Information_Stakeholder_and_hypotheses.md).
+- Some potential hypotheses were determined based on a stakeholder that wants a career change to Data sector (see [Information_Stakeholder_and_hypotheses](https://github.com/anaPau-24/Project_Data_Professions_career_shift/blob/main/Information_stakeholder_and_hypotheses.md)).
    
 ### Exploring the data
 - Delete unnecessary data for answering the hypotheses.

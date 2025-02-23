@@ -7,7 +7,10 @@ For this, a hypothetical case was defined with a client that is assessing a care
 ## Client’s profile:
 
 *`Name:`* Jessica Schultz Garrido 👨🏽‍💻
+
 *`Residence:`* Frankfurt, Germany 🇩🇪
+
+*`Age:`* 33
 
 - The client is willing to relocate if profitable.
 - Hybrid and remote work are preferred.
