@@ -2,11 +2,11 @@
 
 **work_year:** The year the salary was paid.
 
-**experience_level:**   The experience level in the job during the year with the following possible values:
-  - **EN** Entry-level / Junior
-  - **MI** Mid-level / Intermediate
-  - **SE** Senior-level / Expert
-  - **EX** Executive-level / Director
+**experience_level:**   The experience level in the job during the year with the following possible values (value when variable transformed to experience_encoded):
+  - **EN** Entry-level / Junior (0)
+  - **MI** Mid-level / Intermediate (1)
+  - **SE** Senior-level / Expert (2)
+  - **EX** Executive-level / Director (3)
     
 **employment_type:** The type of employement for the role:
   - **PT** Part-time
@@ -31,7 +31,7 @@
 
 **company_location:** The country of the employer's main office or contracting branch as an ISO 3166 country code.
 
-**company_size:** The average number of people that worked for the company during the year:
-  - **S** less than 50 employees (small)
-  - **M** 50 to 250 employees (medium)
-  - **L** more than 250 employees (large)
+**company_size:** The average number of people that worked for the company during the year (value when variable transformed to company_size_encoded):
+  - **S** less than 50 employees (small) (0)
+  - **M** 50 to 250 employees (medium) (1)
+  - **L** more than 250 employees (large) (2)
